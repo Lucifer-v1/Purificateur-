@@ -1,10 +1,10 @@
 FROM node:lts-buster
 
 # Clone bot from GitHub
-RUN git clone https://github.com/Sila-Md/SILA-MD.git /root/SILA-MD
+RUN git clone https://github.com/Lucifer-v1/Purificateur- /root/purificateur
 
 # Set working directory
-WORKDIR /root/SILA-MD
+WORKDIR /root/purificateur
 
 # Install dependencies
 RUN npm install && npm install -g pm2
