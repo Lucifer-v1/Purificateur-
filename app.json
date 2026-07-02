@@ -1,8 +1,8 @@
 {
-  "name": "SILA-MD",
-  "description": "WhatsApp bot made by Sila Md",
-  "logo": "https://files.catbox.moe/36vahk.png",
-  "keywords": ["SILA-MD"],
+  "name": "PURIFICATOR ❤️‍🩹✨",
+  "description": "WhatsApp bot made by L'ANGE PURIFICATEUR",
+  "logo": "https://ibb.co/0jpDTQLm",
+  "keywords": ["purificateur"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": true,
-      "value": "SILA-MD"
+      "value": "purificateur"
     }, 
 
     "CUSTOM_STATUS_EMOJIS": {
@@ -27,7 +27,7 @@
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": false,
-      "value": "."
+      "value": "@"
     },
     
     "MODE": {
@@ -84,27 +84,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": ".*𝐒𝐈𝐋𝐀-𝐌𝐃 𝐕𝐈𝐄𝐖𝐄𝐃✅*"
+      "value": ".*PURIFICATOR ✅*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "SILA-MD"
+      "value": "purificateur"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "255789661031"
+      "value": "237680037458"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": true,
-      "value": "SILA-MD"
+      "value": "PURIFICATOR"
 
       }, 
 
@@ -137,13 +137,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": true,
-      "value": "https://files.catbox.moe/i4aqjo.png"
+      "value": "https://ibb.co/0jpDTQLm.png"
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": true,
-      "value": "*© 𝐒𝐈𝐋𝐀-𝐌𝐃*"
+      "value": "*© PURIFICATEUR*"
     },
 
       "DELETE_LINKS": {
