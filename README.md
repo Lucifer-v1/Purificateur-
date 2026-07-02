@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Lucifer-v1/Purificateur-">
-    <img src="https://files.catbox.moe/98k75b.jpeg" alt="purificateur Banner" width="100%"/>
+    <img src="https://ibb.co/zYcktyZ" alt="purificateur Banner" width="100%"/>
   </a>
 </p>
 
