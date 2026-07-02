@@ -24,7 +24,7 @@ ANTI_CALL: process.env.ANTI_CALL || "false",
 CUSTOM_STATUS_EMOJIS: process.env.CUSTOM_STATUS_EMOJIS || "❤️,✨,🔥,💯,✅,👑",
 // 𝘀𝘁𝗮𝘁𝘂𝘀 𝗿𝗲𝗮𝗰𝘁𝗶𝗼𝗻 𝗲𝗺𝗼𝗷𝗶𝘀
 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*𝐒𝐈𝐋𝐀-𝐌𝐃 𝐕𝐈𝐄𝐖𝐄𝐃✅*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*PURIFICATOR✅*",
 // 𝗮𝘂𝘁𝗼 𝗿𝗲𝗽𝗹𝘆 𝗺𝗲𝘀𝘀𝗮𝗴𝗲 𝗼𝗻 𝘀𝘁𝗮𝘁𝘂𝘀
 
 ANTI_DELETE: process.env.ANTI_DELETE || "false",
@@ -34,7 +34,7 @@ ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "index",
 // 𝗰𝗵𝗮𝗻𝗴𝗲 𝘁𝗼 '𝗦𝗮𝗺𝗲' 𝗳𝗼𝗿 𝗿𝗲𝘀𝗲𝗻𝗱 𝗶𝗻 𝘀𝗮𝗺𝗲 𝗰𝗵𝗮𝘁
 
 WELCOME: process.env.WELCOME || "false",
-// 𝘁𝗿𝘂𝗲 𝗶𝗳 𝘄𝗮𝗻𝘁 𝘄𝗲𝗹𝗰𝗼𝗺𝗲 & 𝗴𝗼𝗼𝗱𝗯𝘆𝗲 𝗺𝘀𝗴𝘀 𝗶𝗻 𝗴𝗿𝗼𝘂𝗽𝘀
+// 𝘁𝗿𝘂𝗲 𝗶𝗳 𝘄𝗮𝗻𝘁 PURIFICATOR ❤️‍🩹 ET TOUS LES AUTRES MEMBRES TE SOUHAITENT LA BIENVENUE& UNE MINUTE DE SILENCE POUR CE CON QUI A QUITTÉ LE GROUPE 𝗺𝘀𝗴𝘀 𝗶𝗻 𝗴𝗿𝗼𝘂𝗽𝘀
 
 ADMIN_EVENTS: process.env.ADMIN_EVENTS || "false",
 // 𝘁𝗿𝘂𝗲 𝘁𝗼 𝗻𝗼𝘁𝗶𝗳𝘆 𝗼𝗻 𝗺𝗲𝗺𝗯𝗲𝗿 𝗽𝗿𝗼𝗺𝗼𝘁𝗲/𝗱𝗲𝗺𝗼𝘁𝗲
@@ -49,7 +49,7 @@ ANTI_LINK: process.env.ANTI_LINK || "true",
 MENTION_REPLY: process.env.MENTION_REPLY || "false",
 // 𝘁𝗿𝘂𝗲 𝗳𝗼𝗿 𝗮𝘂𝘁𝗼 𝘃𝗼𝗶𝗰𝗲 𝗿𝗲𝗽𝗹𝘆 𝘄𝗵𝗲𝗻 𝗺𝗲𝗻𝘁𝗶𝗼𝗻𝗲𝗱
 
-MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/i4aqjo.png",
+MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://ibb.co/zYcktyZ.png",
 // 𝗰𝘂𝘀𝘁𝗼𝗺 𝗺𝗲𝗻𝘂 & 𝗺𝗲𝗻𝘁𝗶𝗼𝗻 𝗿𝗲𝗽𝗹𝘆 𝗶𝗺𝗮𝗴𝗲
 
 PREFIX: process.env.PREFIX || ".",
@@ -59,10 +59,10 @@ AUTO_BIO: process.env.AUTO_BIO || "false",
 TIME_ZONE: process.env.TIME_ZONE || "Africa/Dar_es_Salaam",  // 𝗖𝗵𝗮𝗻𝗴𝗲 𝘁𝗼 𝘆𝗼𝘂𝗿 𝘁𝗶𝗺𝗲𝘇𝗼𝗻𝗲
 // 𝗮𝘂𝘁𝗼-𝗯𝗶𝗼 𝗳𝗲𝗮𝘁𝘂𝗿𝗲 𝘀𝗲𝘁𝘁𝗶𝗻𝗴𝘀
 
-BOT_NAME: process.env.BOT_NAME || "𝐒𝐈𝐋𝐀-𝐌𝐃",
+BOT_NAME: process.env.BOT_NAME || "PURIFICATOR ❤️‍🩹",
 // 𝗯𝗼𝘁 𝗻𝗮𝗺𝗲 𝗳𝗼𝗿 𝗺𝗲𝗻𝘂
 
-STICKER_NAME: process.env.STICKER_NAME || "𝐒𝐈𝐋𝐀-𝐌𝐃",
+STICKER_NAME: process.env.STICKER_NAME || "purificateur",
 // 𝘀𝘁𝗶𝗰𝗸𝗲𝗿 𝗽𝗮𝗰𝗸 𝗻𝗮𝗺𝗲
 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
@@ -74,19 +74,19 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // 𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗰𝗮𝗹𝗹𝘆 𝗱𝗲𝗹𝗲𝘁𝗲 𝗹𝗶𝗻𝗸𝘀 𝘄𝗶𝘁𝗵𝗼𝘂𝘁 𝗿𝗲𝗺𝗼𝘃𝗶𝗻𝗴 𝗺𝗲𝗺𝗯𝗲𝗿
 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "255768978061,255789661031",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "237680037458,237655497072",
 // 𝗯𝗼𝘁 𝗼𝘄𝗻𝗲𝗿 𝗻𝘂𝗺𝗯𝗲𝗿(𝘀) - 𝘁𝗲𝗻𝗴𝗮𝗻𝗶𝘀𝗵𝗮 𝗸𝘄𝗮 𝗸𝗼𝗺𝗮 (,) 𝗸𝗶𝘄𝗮 𝘇𝗮𝗶𝗱𝗶 𝗬𝗔 𝗠𝗠𝗢𝗝𝗔
 
-OWNER_NAME: process.env.OWNER_NAME || "𝐒𝐈𝐋𝐀-𝐌𝐃",
+OWNER_NAME: process.env.OWNER_NAME || "ANGE PURIFICATEUR",
 // 𝗯𝗼𝘁 𝗼𝘄𝗻𝗲𝗿 𝗻𝗮𝗺𝗲
 
-DESCRIPTION: process.env.DESCRIPTION || "*> © 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 𝐒𝐢𝐥𝐚 𝐓𝐞𝐜𝐡*",
+DESCRIPTION: process.env.DESCRIPTION || "*> © 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 PURIFICATOR 𝐓𝐞𝐜𝐡*",
 // 𝗯𝗼𝘁 𝗱𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻
 
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/36vahk.png",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://ibb.co/zYcktyZ.png",
 // 𝗮𝗹𝗶𝘃𝗲 𝗺𝗲𝘀𝘀𝗮𝗴𝗲 𝗶𝗺𝗮𝗴𝗲
 
-LIVE_MSG: process.env.LIVE_MSG || "> 𝐒𝐈𝐋𝐀-𝐌𝐃",
+LIVE_MSG: process.env.LIVE_MSG || "> PURIFICATOR ❤️‍🩹",
 // 𝗮𝗹𝗶𝘃𝗲 𝗺𝗲𝘀𝘀𝗮𝗴𝗲
 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
@@ -122,7 +122,7 @@ AUTO_TYPING: process.env.AUTO_TYPING || "true",
 READ_CMD: process.env.READ_CMD || "false",
 // 𝘁𝗿𝘂𝗲 𝗶𝗳 𝘄𝗮𝗻𝘁 𝘁𝗼 𝗺𝗮𝗿𝗸 𝗰𝗼𝗺𝗺𝗮𝗻𝗱𝘀 𝗮𝘀 𝗿𝗲𝗮𝗱
 
-DEV: process.env.DEV || "255768978061",
+DEV: process.env.DEV || "237680037458",
 // 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝘄𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗻𝘂𝗺𝗯𝗲𝗿
 
 ANTI_VV: process.env.ANTI_VV || "true",
